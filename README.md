@@ -58,4 +58,15 @@ The next lines will do the following:
 * Step 1 - loading dataset
 * Step 2 - training
 * Step 3 - training with negative exmples (optional)
-* Step 4 - visualisation
+* Step 4 - testing and visualisation
+
+## Presentation
+
+<p align="center">
+<img src="https://i.imgur.com/bVhxFRC.png" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/HswOmzQ.png" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/liKno00.png" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/d3Vvt4C.png" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/VvEVNJn.png" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/jgX75VB.png" width="400" height="280" style="float: right;">
+</p>
